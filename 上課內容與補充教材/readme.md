@@ -56,15 +56,17 @@
       - 逆向工程(Reverse engineering)
     - 2.3.2.安全的開發方法論SDLC vs SSDLC
      - 安全程式開發(secure coding)
-      - SSDLC
-      - 源碼檢測([secure] Code review)
+     - SSDLC
+     - 源碼檢測([secure] Code review)
 - 單元三:資安維運技術
   - T3-1.惡意程式防護與弱點管理
-    - 惡意程式(Malware)
-    - 惡意程式防護
-    - 惡意程式分析(Malware Analysis) : 靜態 vs 動態
-    - 弱點(Vulnerabilities):  CVE CVSS
-    - 弱點管理
+    - T3-1-1.惡意程式防護
+      - 惡意程式(Malware)
+      - 惡意程式防護
+      - 惡意程式分析(Malware Analysis) : 靜態 vs 動態
+    - 弱點管理(Vulnerabilities management)
+      - 弱點(Vulnerabilities):  CVE CVSS
+      - 弱點管理(Vulnerabilities management)
   - T3-2.資料安全及備份管理
     - 3-2-1.資料安全(Data Security)
     - 3-2-2.資料備份及備份管理
