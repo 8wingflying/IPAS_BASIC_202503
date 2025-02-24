@@ -22,31 +22,34 @@
 ## IPAS 初階 資訊安全技術概論
 - 單元一:網路與通訊安全
   - 1-1.網路概論
+    -  
   - 1-2.網路攻擊模式分析
+    - [DDOS] 
   - 1-3.網路安全技術
+    - [網路安全設備與網路安全防禦]
+    - [防火牆技術] 
   - 1-4.通訊安全(Communication Security)
-    - 無線網路安全
-    - 安全協定:VPN SSH 
+    - [無線網路安全]
+    - [安全協定:VPN SSH] 
   - 1.5.安全測試技術(Security Testing and Assessment)
-    - 源碼檢測([secure] Code review)
-    - 弱點掃描
-    - 資安健診
-    - 滲透測試
-    - 紅隊演練
+    - [弱點掃描]
+    - [滲透測試]
+    - [紅隊演練]
 - 單元二:作業系統與應用程式安全
   - 2.1.作業系統
-    - 作業系統
-    - 作業系統安全機制
-    - 作業系統攻擊手法分析: 提權  rootkits vs anti-rootkits
-    - 作業系統的安全認證:CC
+    - [作業系統基本觀念]
+    - [Windows作業系統]
+    - [Windows作業系統]
+    - [作業系統攻擊手法與安全]
   - 2.2.網站應用程式 攻擊手法
     - 網站運作:HTTP 1.1/2.0/3 vs HTTPs
     - Web攻擊手法分析: (1)攻擊協定(HTTP/HTTPs protocal)
     - Web攻擊手法分析:(2)攻擊網站伺服器(web Server)
     - Web攻擊手法分析: (3)攻擊網站應用程式(web application)
-    - OWASP TOP 10====網站十大類型漏洞
-      - SQL injection攻擊手法分析
-      - XSS 攻擊手法分析
+    - [OWASP TOP 10:網站十大類型漏洞]
+    - [SQL injection攻擊與防禦]
+    - [XSS 攻擊攻擊與防禦]
+    - [CSRF攻擊與防禦]
   - 2.3.程式與開發安全
     - 2.3.1.程式漏洞分析: Buffer overflow
       - 常見的程式漏洞(不含Ꙭ 網站應用程式 Ꙭ漏洞): 大部分指c/c++程式
