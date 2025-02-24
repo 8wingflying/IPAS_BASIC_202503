@@ -1,7 +1,9 @@
 ## 網站協定 HTTP vs HTTPS
-- HTTP 1.1
-- HTTP 2
-- HTTP 3
+- HTTP
+  - HTTP 1.1
+  - HTTP 2(2015年)
+  - HTTP 3(2022年6月)
+  - Cloudflare的統計，目前最普及的協定仍是HTTP/2，市占率超過60%，HTTP/3市占率則接近30% 
 - HTTPS
   - https://www.shubo.io/https/ 
 
@@ -18,7 +20,11 @@
 - HTTP flood DDoS attack
 ## HTTP 2
 - CVE-2023-44487漏洞
-  - [HTTP/2協定漏洞帶來史上最大DDoS攻擊流量，Google、Cloudflare與AWS皆創紀錄](https://www.ithome.com.tw/news/159221) 
+  - [HTTP/2協定漏洞帶來史上最大DDoS攻擊流量，Google、Cloudflare與AWS皆創紀錄](https://www.ithome.com.tw/news/159221)
+  - 利用HTTP/2中的多工串流（Stream Multiplexing）功能
+  - 發送大量的請求且立即取消，因而造成伺服器端的大量工作負載，卻只需要少量的攻擊成本。
+  - 根據估計，駭客針對CVE-2023-44487漏洞展開攻擊時所利用的殭屍網路僅由2萬臺機器組成，遠低於目前動輒由數十或數百萬臺機器組成的殭屍網路。
 ## HTTP 3
 - CVE-2022-30592
   - [HTTP3-attacks (CVE-2022-30592)](https://github.com/efchatz/HTTP3-attacks) 
+- NGINX HTTP/3 QUIC vulnerability CVE-2024-24989
