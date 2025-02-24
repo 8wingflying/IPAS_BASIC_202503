@@ -28,3 +28,17 @@
 - CVE-2022-30592
   - [HTTP3-attacks (CVE-2022-30592)](https://github.com/efchatz/HTTP3-attacks) 
 - NGINX HTTP/3 QUIC vulnerability CVE-2024-24989
+
+
+## 2024年度十大網站攻擊技術手法一覽
+- [2024十大網站攻擊技術公布，臺灣資安專家再度稱霸第一](https://www.ithome.com.tw/news/167513)
+- 1. Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server  -  Orange Tsai
+- 2. SQL Injection Isn't Dead: Smuggling Queries at the Protocol Level - Paul Gerste
+- 3. Unveiling TE.0 HTTP Request Smuggling - Paolo Arnolfo、Guillermo Gregorio、 @_medusa_1_
+- 4. WorstFit: Unveiling Hidden Transformers in Windows ANSI - Orange Tsai、Splitline
+- 5. Exploring the DOMPurify library: Bypasses and Fixes - Mizu
+- 6. DoubleClickjacking: A New Era of UI Redressing - Paulos Yibelo
+- 7. CVE-2024-4367 - Arbitrary JavaScript execution in PDF.js - Thomas Rinsma
+- 8. OAuth Non-Happy Path to ATO - Oxrz
+- 9. ChatGPT Account Takeover - Wildcard Web Cache Deception- Harel
+- 10. Hijacking OAuth flows via Cookie Tossing - Elliot Ward
