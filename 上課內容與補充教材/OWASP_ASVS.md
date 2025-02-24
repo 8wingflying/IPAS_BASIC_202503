@@ -1,0 +1,16 @@
+# OWASP Application Security Verification Standard (ASVS)
+- The OWASP Application Security Verification Standard (ASVS) Project provides a basis for testing web application technical security controls and also provides developers with a list of requirements for secure development.
+- V1: Architecture, Design and Threat Modeling Requirements
+- V2: Authentication Verification Requirements
+- V3: Session Management Verification Requirements
+- V4: Access Control Verification Requirements
+- V5: Validation, Sanitization and Encoding Verification Requirements
+- V6: Stored Cryptography Verification Requirements
+- V7: Error Handling and Logging Verification Requirements
+- V8: Data Protection Verification Requirements
+- V9: Communications Verification Requirements
+- V10: Malicious Code Verification Requirements
+- V11: Business Logic Verification Requirements
+- V12: File and Resources Verification Requirements
+- V13: API and Web Service Verification Requirements
+- V14: Configuration Verification Requirements
