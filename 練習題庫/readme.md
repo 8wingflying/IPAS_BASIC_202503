@@ -53,14 +53,11 @@
   - 2.3.程式與開發安全
     - 2.3.1.程式漏洞分析: Buffer overflow
       - 常見的程式漏洞(不含Ꙭ 網站應用程式 Ꙭ漏洞): 大部分指c/c++程式
-        - (1)Buffer overflow
-        - (2)format string vuln.
-        - (3)integer overflow
-        - (4)heap overflow
       - 逆向工程(Reverse engineering)
     - 2.3.2.安全的開發方法論SDLC vs SSDLC
-      - 安全程式開發secure coding
-      - SSDLC 
+      - 安全程式開發(secure coding)
+      - SSDLC
+      - Code review 
 - 單元三:資安維運技術
   - 3-1.惡意程式防護與弱點管理
     - 惡意程式(Malware)
@@ -74,14 +71,15 @@
   - 3-3.日誌管理
     - 日誌
     - 各種日誌: WINDOWS LINUX IIS APACHE .....
-    - 日誌分析
-      - syslog
-      - 資料清理Data Clearing
-      - 正規化
-      - 時脈同步
-    - 日誌管理   
+    - [日誌分析]
+    - [日誌管理]   
 - 單元四:新興科技安全
   - 4-1.雲端安全概論
-    - 4-1-1.雲端基本觀念
+    - [雲端基本觀念]
+    - [雲端威脅與安全防護]
   - 4-2.行動裝置安全概論
+    - [行動裝置基本觀念]
+    - [行動裝置資安威脅與安全防護]
   - 4-3.物聯網安全概論
+    - [物聯網基本觀念]
+    - [物聯網資安威脅與安全防護]
