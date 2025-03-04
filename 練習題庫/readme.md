@@ -10,7 +10,9 @@
   - 1-3.相關法規概論與遵循
     - [1_3_A_法規(10題)](https://forms.gle/DdeigSyFg1txX8Pm8)
     - [1_3_B_法規(11題)](https://forms.gle/vpsKgK73VFSGkCqe6)
-  - 1-4.隱私權保護[1_4_A_隱私權保護]()[1_4_B_GDPR]() [1_4_C_隱私權保護難題(含中階考題)]()
+  - 1-4.隱私權保護
+    - [1_4_A_隱私權保護(15題)](https://forms.gle/FSd4ajANdhPmprqr8)
+    - [1_4_B_隱私權保護(13題)](https://forms.gle/mQt29Fxe81wVxbjt7)
   - 1-5.智慧財產權[1_5_A_智慧財產權]
 - 單元二:資產與風險管理 [難題精選]()
   - 2-1.資產分類分級與盤點[2_1_A_資產管理1]()
