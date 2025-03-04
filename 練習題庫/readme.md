@@ -18,7 +18,8 @@
 - 單元二:資產與風險管理
   - 2-1.資產分類分級與盤點
     - [2_1_A_資產分類分級與盤點(23題)](https://forms.gle/mSTTega6ibFpZArZ6)
-    - [2_1_B_資產分類分級與盤點(題)]()
+    - [2_1_B_資產分類分級與盤點(23題)](https://forms.gle/ByibGnkP74WzcHEY9)
+    - [2_1_C_資產分類分級與盤點(6題)](https://forms.gle/WocTBif6sFrUHtpQ8)
   - 2-2.風險評鑑(Risk Assessment)[2_2_A_資產管理1]()
   - 2-3.風險處理(Risk Treatment)[2_1_A_資產管理1]()
 - 單元三:存取控制、加解密與金鑰管理
