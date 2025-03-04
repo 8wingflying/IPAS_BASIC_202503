@@ -17,7 +17,7 @@
     - [1_5_智慧財產權(14題)](https://forms.gle/nRsu8whKUX5UMx958)
 - 單元二:資產與風險管理
   - 2-1.資產分類分級與盤點
-    - [2_1_A_資產分類分級與盤點(題)]()
+    - [2_1_A_資產分類分級與盤點(23題)](https://forms.gle/mSTTega6ibFpZArZ6)
     - [2_1_B_資產分類分級與盤點(題)]()
   - 2-2.風險評鑑(Risk Assessment)[2_2_A_資產管理1]()
   - 2-3.風險處理(Risk Treatment)[2_1_A_資產管理1]()
