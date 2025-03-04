@@ -6,7 +6,7 @@
     - [1_1_B_CIA(9題)](https://forms.gle/uN4PzLRGwUAQKGUS6) 
   - 1-2.資訊安全管理系統 ISMS == > ISO 27001
     - [1_2_A_ISMS(10題)](https://forms.gle/svBx3pMNjmrieSp67)
-    - [1_2_B_ISMS(題)](https://forms.gle/6FpDVAUTuprUNos2A)
+    - [1_2_B_ISMS(13題)](https://forms.gle/6FpDVAUTuprUNos2A)
   - 1-3.相關法規概論與遵循[1_3_A_法規1]() [1_3_B_通報應變]() [1_3_C_法規難題(含中階考題)]()
   - 1-4.隱私權保護[1_4_A_隱私權保護]()[1_4_B_GDPR]() [1_4_C_隱私權保護難題(含中階考題)]()
   - 1-5.智慧財產權[1_5_A_智慧財產權]
